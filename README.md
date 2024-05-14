@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Andre(a):
-🔭 I’m currently working on AthenaShop (a Profile Athena and Shop generator for Fortnite) and Era (News, blogs & general fortnite tracking).<br>🌱 My main language is Python and i'm learning C#, C++ and JavaScript.<br>💬 I mainly code for Fortnite-Related stuff.<br>
+🔭 I’m currently working on Rift (a Manifest Parser for Fortnite) and Era (News, blogs & general fortnite tracking).<br>🌱 My main language is Python and i'm learning C#, C++ and JavaScript.<br>💬 I mainly code for Fortnite-Related stuff.<br>
 
 
 ## 🌐 Socials:
